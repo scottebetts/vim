@@ -16,4 +16,4 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set number
-nnoremap <F2> :set nonumber!<CR>ap 
+nnoremap <F2> :set nonumber!<CR>

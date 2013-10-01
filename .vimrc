@@ -17,3 +17,5 @@ set shiftwidth=4
 set expandtab
 set number
 nnoremap <F2> :set nonumber!<CR>
+
+set t_Co=256

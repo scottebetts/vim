@@ -17,6 +17,7 @@ set shiftwidth=4
 set expandtab
 set number
 nnoremap <F2> :set nonumber!<CR>
+nnoremap <F3> :make %<CR>
 set autowrite
-set makeprg=ruby\ %
+set makeprg=ruby\ -w\ $*
 set t_Co=256

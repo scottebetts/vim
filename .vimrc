@@ -3,7 +3,7 @@ call pathogen#helptags()
 syntax on
 filetype plugin indent on
 
-colorscheme vividchalk
+colorscheme peachpuff
 let g:solarized_termtrans=1
 let g:solarized_termcolors=256
 let g:solarized_contrast="high"

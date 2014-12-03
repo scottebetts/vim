@@ -49,3 +49,24 @@
 [submodule "bundle/desertEx"]
 	path = bundle/desertEx
 	url = https://github.com/vim-scripts/desertEx.git
+[submodule "bundle/synic.vim"]
+	path = bundle/synic.vim
+	url = https://github.com/vim-scripts/synic.vim.git
+[submodule "bundle/mrkn256.vim"]
+	path = bundle/mrkn256.vim
+	url = https://github.com/mrkn/mrkn256.vim.git
+[submodule "bundle/256-jungle"]
+	path = bundle/256-jungle
+	url = https://github.com/vim-scripts/256-jungle.git
+[submodule "bundle/lizard"]
+	path = bundle/lizard
+	url = https://github.com/gilsondev/lizard.git
+[submodule "bundle/last256"]
+	path = bundle/last256
+	url = https://github.com/sk1418/last256.git
+[submodule "bundle/Atom"]
+	path = bundle/Atom
+	url = https://github.com/gregsexton/Atom.git
+[submodule "bundle/burnttoast256"]
+	path = bundle/burnttoast256
+	url = https://github.com/vim-scripts/burnttoast256.git

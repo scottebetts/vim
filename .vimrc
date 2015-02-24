@@ -18,3 +18,6 @@ nnoremap <F4> :%!python -m json.tool
 set autowrite
 set makeprg=ruby\ -w\ $*
 set t_Co=256
+
+au FileType xml exe ":silent %!xmllint --format --recover - 2>/dev/null"
+

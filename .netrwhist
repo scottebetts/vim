@@ -1,11 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/scbetts/.vim'
-let g:netrw_dirhist_2='/Users/scbetts/.config'
-let g:netrw_dirhist_3='/Users/scbetts/adobeccstorage-chef/.git'
-let g:netrw_dirhist_4='/Users/scbetts/adobeccstorage-chef/CF-templates'
-let g:netrw_dirhist_5='/Users/scbetts/adobeccstorage-chef/.git'
-let g:netrw_dirhist_6='/Users/scbetts/.ssh'
-let g:netrw_dirhist_7='/Users/scbetts/.cache'
-let g:netrw_dirhist_8='/Users/scbetts/zabbix-maintenance/.git'
-let g:netrw_dirhist_9='/Users/scbetts/.rbenv'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/scbetts/.dsh'
+let g:netrw_dirhist_2='/Users/scbetts/Projects/ork/config/deploy'

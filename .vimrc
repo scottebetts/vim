@@ -3,7 +3,7 @@ call pathogen#helptags()
 syntax on
 filetype plugin indent on
 
-colorscheme gotham256
+colorscheme atom
 let g:airline_detect_paste=1
 let g:airline_powerline_fonts = 1
 let g:airline_detect_modified=1

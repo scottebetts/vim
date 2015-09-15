@@ -79,3 +79,6 @@
 [submodule "bundle/material.vim"]
 	path = bundle/material.vim
 	url = https://github.com/jscappini/material.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
